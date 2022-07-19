@@ -1,0 +1,36 @@
+* {
+    scroll-behavior: smooth;
+}
+
+.center {
+    min-height : 100vh;
+    background-color: rgb(42, 41, 43);
+    color : rgb(187, 138, 138);
+    padding-top : 130px;
+    padding-bottom : 70px;
+}
+
+
+
+@media (max-width : 700px) {
+    .app {
+        padding-top : 70px;
+    }
+}
+
+.mainPages {
+    text-transform: uppercase;
+    display: flex;
+    justify-content: center;
+    font-family: "Montserrat", sans-serif;
+    font-size: 2.5vw;
+    padding : 8px;
+    border-radius: 50px;
+    color : white
+}
+
+@media (max-width : 1000px) {
+    .mainPages {
+        font-size: 6.4vh;
+    }
+}

@@ -1,0 +1,41 @@
+.node {
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    padding: 5px;
+    margin: 10px 0px;
+    background-color: black;
+    border-radius: 10px;
+    position: relative;
+    font-family: "Montserrat",sans-serif;
+}
+
+.node:hover {
+    background-color : white;
+    color : blue;
+}
+
+@media (max-width : 550px) {
+    .node {
+        width: 46%;
+    }
+}
+
+.poster {
+     border-radius : 10px; 
+}
+
+.title {
+    width: 100%;
+    text-align: center;
+    font-size: 15px;
+    padding: 8px 0;
+}
+
+.details  {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 3px;
+    padding : 0 2px;
+    padding-bottom: 3px;
+}
