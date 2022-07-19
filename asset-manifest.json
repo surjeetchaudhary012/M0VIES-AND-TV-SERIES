@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/M0VIES-AND-TV-SERIES/static/css/main.a951fa00.chunk.css",
+    "main.js": "/M0VIES-AND-TV-SERIES/static/js/main.54fbb251.chunk.js",
+    "main.js.map": "/M0VIES-AND-TV-SERIES/static/js/main.54fbb251.chunk.js.map",
+    "runtime-main.js": "/M0VIES-AND-TV-SERIES/static/js/runtime-main.70e3e81d.js",
+    "runtime-main.js.map": "/M0VIES-AND-TV-SERIES/static/js/runtime-main.70e3e81d.js.map",
+    "static/css/2.cc57a610.chunk.css": "/M0VIES-AND-TV-SERIES/static/css/2.cc57a610.chunk.css",
+    "static/js/2.998ab896.chunk.js": "/M0VIES-AND-TV-SERIES/static/js/2.998ab896.chunk.js",
+    "static/js/2.998ab896.chunk.js.map": "/M0VIES-AND-TV-SERIES/static/js/2.998ab896.chunk.js.map",
+    "index.html": "/M0VIES-AND-TV-SERIES/index.html",
+    "static/css/2.cc57a610.chunk.css.map": "/M0VIES-AND-TV-SERIES/static/css/2.cc57a610.chunk.css.map",
+    "static/css/main.a951fa00.chunk.css.map": "/M0VIES-AND-TV-SERIES/static/css/main.a951fa00.chunk.css.map",
+    "static/js/2.998ab896.chunk.js.LICENSE.txt": "/M0VIES-AND-TV-SERIES/static/js/2.998ab896.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.70e3e81d.js",
+    "static/css/2.cc57a610.chunk.css",
+    "static/js/2.998ab896.chunk.js",
+    "static/css/main.a951fa00.chunk.css",
+    "static/js/main.54fbb251.chunk.js"
+  ]
+}
